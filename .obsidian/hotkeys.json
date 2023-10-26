@@ -1,0 +1,18 @@
+{
+  "obsidian-diagrams-net:app:diagrams-net-new-diagram": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "'"
+    }
+  ],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ]
+}
