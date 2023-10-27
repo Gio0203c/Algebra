@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Lezioni/2023-10-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Lezioni/2023-10-13.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Lezioni/2023-10-13.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Lezioni/2023-10-13.md"
               }
             }
           },
@@ -166,34 +166,35 @@
   },
   "active": "cd5f95488a04055a",
   "lastOpenFiles": [
-    "Pasted image 20231025152627.png",
+    "Lezioni/2023-10-02.md",
+    "Lezioni/2023-10-04.md",
+    "Lezioni/2023-10-13.md",
+    "Lezioni/2023-10-16.md",
+    "Lezioni/2023-10-11.md",
+    "Lezioni/2023-10-09.md",
+    "Lezioni/2023-10-06.md",
+    "Dispense Campanella/Cap1primaparte.pdf",
+    "Immagini/Pasted image 20231025152627.png",
+    "Immagini/Pasted image 20231018084700.png",
     "README.md",
+    "Approfondimenti/induzione matematica.md",
+    "Approfondimenti/assiomi di peano.md",
     "HomePage.md",
     "Untitled.canvas",
     "Approfondimenti/dominio di integrità.md",
     "LatexSnippets.md",
     "Untitled.md",
-    "Lezioni/2023-10-13.md",
-    "Lezioni/2023-10-11.md",
     "Lezioni/2023-10-18.md",
     "Lezioni/2023-10-23.md",
     "Lezioni/2023-10-25.md",
     "Lezioni/2023-10-27.md",
-    "Lezioni/2023-10-02.md",
-    "Lezioni/2023-10-09.md",
-    "Lezioni/2023-10-16.md",
-    "Lezioni/2023-10-04.md",
-    "Lezioni/2023-10-06.md",
     "Bozze.md",
     "Approfondimenti/irrazionalità della radice di due.md",
-    "Approfondimenti/induzione matematica.md",
     "Definizioni/contenuto propriamente.md",
     "Definizioni/differenza.md",
-    "Approfondimenti/assiomi di peano.md",
     "Approfondimenti/osservazioni sugli assiomi di peano.md",
     "Lezioni/2023-10-20.md",
     "Definizioni/legge della cancellazione.md",
-    "Pasted image 20231018084700.png",
     "Immagini/lez05graficoQ.png",
     "Immagini/lez05graficoQ.svg.crswap",
     "Immagini/lez05graficoQ.svg",
@@ -210,7 +211,6 @@
     "Immagini/peano-coaching-circle-1030x1014.png.crdownload",
     "Immagini/lez02diagrammaHasse.drawio.svg.crswap",
     "Immagini/lez02diagrammaHasse.drawio.crswap",
-    "Immagini/lez02diagrammaHasse.drawio",
-    "Immagini/bianco.drawio.svg.crswap"
+    "Immagini/lez02diagrammaHasse.drawio"
   ]
 }
