@@ -11,3 +11,5 @@ Qui troverai:
 Sono disponibile a correggere e migliorare costantemente questi materiali, quindi non esitare a contattarmi in caso di errori o suggerimenti. Puoi raggiungermi all'indirizzo email: giovi.cinieri@gmail.com con l'oggetto "repo-algebra2324".
 
 Spero che questi contenuti ti siano utili per studiare l'Algebra in modo efficace. Buono studio!
+
+P.S. Ho lavorato a qusti appunti con la piattaforma Obsidian, per cui si può scaricare quella e aprire la cartella come vault per un esperienza migliore. In futuro vedrò di pubblicarli in un modo migliore :)
