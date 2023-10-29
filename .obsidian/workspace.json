@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lezioni/2023-10-02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f279f3283b1b7182",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Approfondimenti/crivello di eratostene.md",
                 "mode": "source",
                 "source": false
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lezioni/2023-10-02.md",
+                "file": "Approfondimenti/crivello di eratostene.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lezioni/2023-10-02.md",
+                "file": "Approfondimenti/crivello di eratostene.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lezioni/2023-10-02.md"
+                "file": "Approfondimenti/crivello di eratostene.md"
               }
             }
           },
@@ -178,9 +166,16 @@
   },
   "active": "cd5f95488a04055a",
   "lastOpenFiles": [
-    "Lezioni/2023-10-04.md",
     "Lezioni/2023-10-02.md",
+    "Approfondimenti/osservazioni sugli assiomi di peano.md",
     "Approfondimenti/crivello di eratostene.md",
+    "Approfondimenti/assiomi di peano.md",
+    "Esercizi Campanella/Altriesercizi.pdf",
+    "Lezioni/2023-10-09.md",
+    "Esercizi Campanella/SolEsCap4.pdf",
+    "Esercizi Campanella/InizioEsAlg1.pdf",
+    "Esercizi Campanella/SolEsCap2.pdf",
+    "Lezioni/2023-10-04.md",
     "Definizioni/contenuto propriamente.md",
     "Lezioni/2023-10-13.md",
     "Lezioni/2023-10-20.md",
@@ -200,14 +195,11 @@
     "Lezioni/2023-10-27.md",
     "Dispense Campanella/Cap1secondaparte.pdf",
     "Approfondimenti/irrazionalità della radice di due.md",
-    "Approfondimenti/osservazioni sugli assiomi di peano.md",
     "Approfondimenti/induzione matematica.md",
-    "Lezioni/2023-10-09.md",
     "Dispense Campanella/Cap1primaparte.pdf",
     "Immagini/Pasted image 20231025152627.png",
     "Immagini/Pasted image 20231018084700.png",
     "README.md",
-    "Approfondimenti/assiomi di peano.md",
     "Untitled.canvas",
     "Immagini/lez05graficoQ.png",
     "Immagini/lez05graficoQ.svg.crswap",
@@ -217,13 +209,9 @@
     "Esercizi",
     "Pasted image 20231014142009.png",
     "Approfondimenti",
-    "Dimostrazioni",
     "Immagini/lez01rhoprimo.drawio.svg",
     "Immagini/peano-coaching-circle-1030x1014-min.png",
     "Immagini/Pasted image 20231007152521.png",
-    "Immagini/lez02diagrammaHasse.drawio.svg",
-    "Immagini/peano-coaching-circle-1030x1014.png.crdownload",
-    "Immagini/lez02diagrammaHasse.drawio.svg.crswap",
-    "Immagini/lez02diagrammaHasse.drawio.crswap"
+    "Immagini/lez02diagrammaHasse.drawio.svg"
   ]
 }
