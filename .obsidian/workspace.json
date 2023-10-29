@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lezioni/2023-10-13.md",
+                "file": "Lezioni/2023-10-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f279f3283b1b7182",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Approfondimenti/crivello di eratostene.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lezioni/2023-10-13.md",
+                "file": "Lezioni/2023-10-02.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lezioni/2023-10-13.md",
+                "file": "Lezioni/2023-10-02.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lezioni/2023-10-13.md"
+                "file": "Lezioni/2023-10-02.md"
               }
             }
           },
@@ -166,35 +178,37 @@
   },
   "active": "cd5f95488a04055a",
   "lastOpenFiles": [
-    "Lezioni/2023-10-02.md",
     "Lezioni/2023-10-04.md",
+    "Lezioni/2023-10-02.md",
+    "Approfondimenti/crivello di eratostene.md",
+    "Definizioni/contenuto propriamente.md",
     "Lezioni/2023-10-13.md",
-    "Lezioni/2023-10-16.md",
+    "Lezioni/2023-10-20.md",
     "Lezioni/2023-10-11.md",
-    "Lezioni/2023-10-09.md",
+    "Lezioni/2023-10-18.md",
     "Lezioni/2023-10-06.md",
+    "Lezioni/2023-10-16.md",
+    "Definizioni/legge della cancellazione.md",
+    "Definizioni/prodotto cartesiano.md",
+    "Definizioni/unione.md",
+    "Definizioni/intersezione.md",
+    "Definizioni/differenza.md",
+    "Definizioni/disgiunte.md",
+    "Definizioni/complemento.md",
+    "HomePage.md",
+    "Bozze.md",
+    "Lezioni/2023-10-27.md",
+    "Dispense Campanella/Cap1secondaparte.pdf",
+    "Approfondimenti/irrazionalità della radice di due.md",
+    "Approfondimenti/osservazioni sugli assiomi di peano.md",
+    "Approfondimenti/induzione matematica.md",
+    "Lezioni/2023-10-09.md",
     "Dispense Campanella/Cap1primaparte.pdf",
     "Immagini/Pasted image 20231025152627.png",
     "Immagini/Pasted image 20231018084700.png",
     "README.md",
-    "Approfondimenti/induzione matematica.md",
     "Approfondimenti/assiomi di peano.md",
-    "HomePage.md",
     "Untitled.canvas",
-    "Approfondimenti/dominio di integrità.md",
-    "LatexSnippets.md",
-    "Untitled.md",
-    "Lezioni/2023-10-18.md",
-    "Lezioni/2023-10-23.md",
-    "Lezioni/2023-10-25.md",
-    "Lezioni/2023-10-27.md",
-    "Bozze.md",
-    "Approfondimenti/irrazionalità della radice di due.md",
-    "Definizioni/contenuto propriamente.md",
-    "Definizioni/differenza.md",
-    "Approfondimenti/osservazioni sugli assiomi di peano.md",
-    "Lezioni/2023-10-20.md",
-    "Definizioni/legge della cancellazione.md",
     "Immagini/lez05graficoQ.png",
     "Immagini/lez05graficoQ.svg.crswap",
     "Immagini/lez05graficoQ.svg",
@@ -210,7 +224,6 @@
     "Immagini/lez02diagrammaHasse.drawio.svg",
     "Immagini/peano-coaching-circle-1030x1014.png.crdownload",
     "Immagini/lez02diagrammaHasse.drawio.svg.crswap",
-    "Immagini/lez02diagrammaHasse.drawio.crswap",
-    "Immagini/lez02diagrammaHasse.drawio"
+    "Immagini/lez02diagrammaHasse.drawio.crswap"
   ]
 }
