@@ -26,7 +26,7 @@ I primi due assiomi da soli non bastano come verità assoluta, perché questi se
 
 Introducendo il terzo assioma, notiamo che i casi $(3)$ e $(4)$ non sono più validi, perché in entrambi i casi 1 è il successivo di due numeri diversi tra di loro, quindi non rispetta l'assioma.
 
-Introducendo il quarto assioma escludiamo i casi $(3)$ e $(5)$, dato che in un caso è il successivo di 2, mentre in un altro è successivo a sé stesso. In questo modo l'assioma non viene rispettato.
+Introducendo il quarto assioma escludiamo i casi $(2)$ e $(5)$, dato che in un caso è il successivo di 2, mentre in un altro è successivo a sé stesso. In questo modo l'assioma non viene rispettato.
 
 Ora, potrebbe sembrare che il quinto assioma non centri nulla con gli altri quattro, ma invece è proprio il più importante. Prendendo il caso $(6)$, e dando l'assioma per vero, da zero devo poter arrivare a qualsiasi elemento che è contenuto nell'insieme. Come posso vedere nell caso $(6)$ da zero non posso arrivare a mela/pera/banana, pertanto va escluso anche quello.
 

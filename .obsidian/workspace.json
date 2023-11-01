@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Approfondimenti/crivello di eratostene.md",
+                "file": "Lezioni/2023-10-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "60be81e4e39f3fca",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Approfondimenti/crivello di eratostene.md",
+                "file": "Lezioni/2023-10-18.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Approfondimenti/crivello di eratostene.md",
+                "file": "Lezioni/2023-10-18.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Approfondimenti/crivello di eratostene.md"
+                "file": "Lezioni/2023-10-18.md"
               }
             }
           },
@@ -147,11 +148,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,51 +168,53 @@
   },
   "active": "cd5f95488a04055a",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Lezioni/2023-10-18.md",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
+    "Approfondimenti/assiomi di peano.md",
+    "Immagini/lez08mcd.png",
+    "Lezioni/2023-10-02.md",
+    "Approfondimenti/induzione matematica.md",
+    "Dispense Campanella/Cap3primaparte.pdf",
+    "Esercizi/Esercizi 01.md",
     "Approfondimenti/crivello di eratostene.md",
+    "Lezioni/2023-11-03.md",
+    "Lezioni/2023-10-30.md",
+    "Lezioni/2023-10-16.md",
+    "Lezioni/2023-10-13.md",
+    "Lezioni/2023-10-04.md",
+    "Lezioni/2023-10-06.md",
+    "Lezioni/2023-10-09.md",
+    "Lezioni/2023-10-11.md",
+    "Lezioni/2023-10-20.md",
+    "Lezioni/2023-10-23.md",
+    "Lezioni/2023-10-25.md",
+    "Lezioni/2023-10-27.md",
+    "Bozze.md",
+    "Approfondimenti/irrazionalità della radice di due.md",
     "Immagini/crivelloeratostene05.svg",
     "Immagini/crivelloeratostene01.svg",
     "Immagini/crivelloeratostene03.svg",
     "Immagini/crivelloeratostene02.svg",
     "Immagini/crivelloeratostene04.svg",
-    "Lezioni/2023-10-02.md",
-    "Lezioni/2023-10-06.md",
     "Immagini/lez01relazione01.png",
     "Immagini/bianco.drawio.svg",
-    "Approfondimenti/induzione matematica.md",
     "Approfondimenti/osservazioni sugli assiomi di peano.md",
-    "Approfondimenti/assiomi di peano.md",
     "Esercizi Campanella/Altriesercizi.pdf",
-    "Lezioni/2023-10-09.md",
     "Esercizi Campanella/SolEsCap4.pdf",
     "Esercizi Campanella/InizioEsAlg1.pdf",
     "Esercizi Campanella/SolEsCap2.pdf",
-    "Lezioni/2023-10-04.md",
     "Definizioni/contenuto propriamente.md",
-    "Lezioni/2023-10-13.md",
-    "Lezioni/2023-10-20.md",
-    "Lezioni/2023-10-11.md",
-    "Lezioni/2023-10-18.md",
-    "Lezioni/2023-10-16.md",
     "Definizioni/legge della cancellazione.md",
     "Definizioni/prodotto cartesiano.md",
     "Definizioni/unione.md",
-    "Definizioni/intersezione.md",
-    "Definizioni/differenza.md",
-    "Definizioni/disgiunte.md",
-    "Definizioni/complemento.md",
-    "HomePage.md",
-    "Bozze.md",
-    "Lezioni/2023-10-27.md",
     "Dispense Campanella/Cap1secondaparte.pdf",
-    "Approfondimenti/irrazionalità della radice di due.md",
     "Dispense Campanella/Cap1primaparte.pdf",
     "Immagini/Pasted image 20231025152627.png",
     "Immagini/Pasted image 20231018084700.png",
-    "Untitled.canvas",
-    "Immagini/lez05graficoQ.png",
     "Immagini/lez05graficoQ.svg.crswap",
     "Immagini/lez03graficoNxN.svg.crswap",
-    "Esercizi",
-    "Approfondimenti"
+    "Esercizi"
   ]
 }
