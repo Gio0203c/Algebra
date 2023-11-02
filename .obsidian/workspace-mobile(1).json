@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lezioni/2023-10-18.md",
-                "mode": "source",
+                "file": "Approfondimenti/irrazionalità della radice di due.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lezioni/2023-10-18.md",
+            "file": "Approfondimenti/irrazionalità della radice di due.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Lezioni/2023-10-18.md",
+            "file": "Approfondimenti/irrazionalità della radice di due.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Lezioni/2023-10-18.md"
+            "file": "Approfondimenti/irrazionalità della radice di due.md"
           }
         }
       },
@@ -142,6 +142,13 @@
   },
   "active": "b10f5701bb81263f",
   "lastOpenFiles": [
+    "Approfondimenti/induzione matematica.md",
+    "Lezioni/2023-10-06.md",
+    "Lezioni/2023-10-25.md",
+    "Lezioni/2023-10-13.md",
+    "Lezioni/2023-10-02.md",
+    "Lezioni/2023-10-18.md",
+    "Lezioni/2023-10-04.md",
     "Lezioni/2023-10-20.md",
     "Approfondimenti/osservazioni sugli assiomi di peano.md",
     "Untitled 1.canvas",
@@ -160,14 +167,11 @@
     "Lezioni",
     "Immagini/lez08mcd.png",
     "Immagini/peano01.PNG",
-    "Lezioni/2023-10-02.md",
     "Immagini/Pasted image 20231007152521.png",
     "Immagini/lez05graficoQ.svg",
     "Immagini/crivelloeratostene05.svg",
     "Immagini/lez01intersezione.jpg",
-    "Lezioni/2023-10-04.md",
     "Dispense Campanella/InizioAlg1.pdf",
-    "Lezioni/2023-10-06.md",
     "Immagini/lez01rhoprimo.drawio.svg",
     "Lezioni/2023-10-11.md",
     "Dispense Campanella/Cap2primaparte.pdf",
