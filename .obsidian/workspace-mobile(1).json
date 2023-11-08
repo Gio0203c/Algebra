@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Approfondimenti/irrazionalità della radice di due.md",
+                "file": "Lezioni/2023-10-06.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Approfondimenti/irrazionalità della radice di due.md",
+            "file": "Lezioni/2023-10-06.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Approfondimenti/irrazionalità della radice di due.md",
+            "file": "Lezioni/2023-10-06.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Approfondimenti/irrazionalità della radice di due.md"
+            "file": "Lezioni/2023-10-06.md"
           }
         }
       },
@@ -140,21 +140,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b10f5701bb81263f",
+  "active": "be8fbe75f6462658",
   "lastOpenFiles": [
-    "Approfondimenti/induzione matematica.md",
+    "Lezioni/2023-10-02.md",
     "Lezioni/2023-10-06.md",
+    "Approfondimenti/induzione matematica.md",
+    "Lezioni/2023-10-18.md",
+    "Lezioni/2023-10-20.md",
+    "Approfondimenti/assiomi di peano.md",
+    "Lezioni/2023-10-23.md",
+    "Lezioni/2023-10-11.md",
+    "Approfondimenti/irrazionalità della radice di due.md",
     "Lezioni/2023-10-25.md",
     "Lezioni/2023-10-13.md",
-    "Lezioni/2023-10-02.md",
-    "Lezioni/2023-10-18.md",
     "Lezioni/2023-10-04.md",
-    "Lezioni/2023-10-20.md",
     "Approfondimenti/osservazioni sugli assiomi di peano.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled.md",
-    "Approfondimenti/irrazionalità della radice di due.md",
     "Bozze.md",
     "2023-10-31.md",
     "Dispense Campanella/Cap2secondaparte.pdf",
@@ -173,7 +176,6 @@
     "Immagini/lez01intersezione.jpg",
     "Dispense Campanella/InizioAlg1.pdf",
     "Immagini/lez01rhoprimo.drawio.svg",
-    "Lezioni/2023-10-11.md",
     "Dispense Campanella/Cap2primaparte.pdf",
     "Immagini/lez01insieme-complementare.jpg",
     "Lezioni/2023-10-09.md",
