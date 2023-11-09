@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lezioni/2023-10-20.md",
-                "mode": "preview",
+                "file": "Bozze.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "60be81e4e39f3fca",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lezioni/2023-10-20.md",
+                "file": "Bozze.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lezioni/2023-10-20.md",
+                "file": "Bozze.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lezioni/2023-10-20.md"
+                "file": "Bozze.md"
               }
             }
           },
@@ -168,22 +167,22 @@
   },
   "active": "a5bd49212f0fe867",
   "lastOpenFiles": [
+    "Lezioni/2023-11-03.md",
+    "Bozze.md",
+    "Lezioni/2023-10-09.md",
+    "Lezioni/2023-10-06.md",
+    "Lezioni/2023-10-04.md",
+    "Lezioni/2023-10-02.md",
+    "Lezioni/2023-10-16.md",
     "Lezioni/2023-10-13.md",
+    "Lezioni/2023-10-11.md",
     "Lezioni/2023-10-20.md",
     "Lezioni/2023-10-30.md",
-    "Lezioni/2023-11-03.md",
-    "Lezioni/2023-10-16.md",
-    "Lezioni/2023-10-04.md",
-    "Lezioni/2023-10-06.md",
     "Approfondimenti/crivello di eratostene.md",
-    "Lezioni/2023-10-09.md",
     "Lezioni/2023-10-18.md",
     "Lezioni/2023-10-23.md",
     "Lezioni/2023-10-25.md",
     "Lezioni/2023-10-27.md",
-    "Bozze.md",
-    "Lezioni/2023-10-11.md",
-    "Lezioni/2023-10-02.md",
     "Approfondimenti/induzione matematica.md",
     "Approfondimenti/assiomi di peano.md",
     "HomePage.md",
