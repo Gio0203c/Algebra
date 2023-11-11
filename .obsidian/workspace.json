@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lezioni/2023-10-11.md",
-                "mode": "preview",
-                "source": true
+                "file": "Bozze.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "60be81e4e39f3fca",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lezioni/2023-10-11.md",
+                "file": "Bozze.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lezioni/2023-10-11.md",
+                "file": "Bozze.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lezioni/2023-10-11.md"
+                "file": "Bozze.md"
               }
             }
           },
@@ -148,12 +147,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,23 +164,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "47e939a0dd48e7f5",
+  "active": "a5bd49212f0fe867",
   "lastOpenFiles": [
-    "Lezioni/2023-10-13.md",
-    "Lezioni/2023-10-02.md",
-    "Lezioni/2023-10-11.md",
-    "Lezioni/2023-10-09.md",
+    "2023-11-10.md",
+    "Lezioni/2023-10-20.md",
+    "2023-11-08.md",
+    "2023-11-06.md",
     "Lezioni/2023-10-16.md",
     "Lezioni/2023-10-18.md",
-    "Lezioni/2023-10-20.md",
     "Lezioni/2023-10-23.md",
-    "Lezioni/2023-10-06.md",
-    "Bozze.md",
-    "Lezioni/2023-11-03.md",
-    "Lezioni/2023-10-04.md",
-    "Lezioni/2023-10-30.md",
-    "Approfondimenti/crivello di eratostene.md",
     "Lezioni/2023-10-25.md",
+    "Lezioni/2023-10-30.md",
+    "Lezioni/2023-11-03.md",
+    "Bozze.md",
+    "Lezioni/2023-10-13.md",
+    "Lezioni/2023-10-11.md",
+    "Lezioni/2023-10-09.md",
+    "Lezioni/2023-10-06.md",
+    "Lezioni/2023-10-04.md",
+    "Lezioni/2023-10-02.md",
+    "Approfondimenti/crivello di eratostene.md",
     "Lezioni/2023-10-27.md",
     "Approfondimenti/induzione matematica.md",
     "Approfondimenti/assiomi di peano.md",
@@ -203,13 +204,10 @@
     "Immagini/crivelloeratostene04.svg",
     "Immagini/lez01relazione01.png",
     "Immagini/bianco.drawio.svg",
-    "Approfondimenti/osservazioni sugli assiomi di peano.md",
     "Esercizi Campanella/Altriesercizi.pdf",
     "Esercizi Campanella/SolEsCap4.pdf",
     "Esercizi Campanella/InizioEsAlg1.pdf",
     "Esercizi Campanella/SolEsCap2.pdf",
-    "Definizioni/contenuto propriamente.md",
-    "Definizioni/legge della cancellazione.md",
     "Dispense Campanella/Cap1secondaparte.pdf",
     "Dispense Campanella/Cap1primaparte.pdf",
     "Immagini/Pasted image 20231025152627.png",
