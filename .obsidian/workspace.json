@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bozze.md",
-                "mode": "source",
-                "source": false
+                "file": "Lezioni/2023-10-18.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bozze.md",
+                "file": "Lezioni/2023-10-18.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bozze.md",
+                "file": "Lezioni/2023-10-18.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bozze.md"
+                "file": "Lezioni/2023-10-18.md"
               }
             }
           },
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,25 +167,27 @@
   },
   "active": "a5bd49212f0fe867",
   "lastOpenFiles": [
-    "2023-11-10.md",
     "Lezioni/2023-10-20.md",
-    "2023-11-08.md",
-    "2023-11-06.md",
-    "Lezioni/2023-10-16.md",
-    "Lezioni/2023-10-18.md",
     "Lezioni/2023-10-23.md",
+    "Lezioni/2023-10-18.md",
+    "Lezioni/2023-10-16.md",
+    "Lezioni/2023-10-13.md",
+    "Lezioni/2023-10-06.md",
+    "Lezioni/2023-10-02.md",
+    "Lezioni/2023-10-04.md",
+    "Lezioni/2023-10-09.md",
+    "Lezioni/2023-10-11.md",
     "Lezioni/2023-10-25.md",
+    "Lezioni/2023-10-27.md",
     "Lezioni/2023-10-30.md",
     "Lezioni/2023-11-03.md",
-    "Bozze.md",
-    "Lezioni/2023-10-13.md",
-    "Lezioni/2023-10-11.md",
-    "Lezioni/2023-10-09.md",
-    "Lezioni/2023-10-06.md",
-    "Lezioni/2023-10-04.md",
-    "Lezioni/2023-10-02.md",
+    "2023-11-10.md",
+    "2023-11-08.md",
+    "2023-11-06.md",
+    "Esercizi/Esercizi 02.md",
+    "Esercizi/Esercizi 01.md",
     "Approfondimenti/crivello di eratostene.md",
-    "Lezioni/2023-10-27.md",
+    "Bozze.md",
     "Approfondimenti/induzione matematica.md",
     "Approfondimenti/assiomi di peano.md",
     "HomePage.md",
@@ -195,8 +198,6 @@
     "Untitled.canvas",
     "Immagini/lez08mcd.png",
     "Dispense Campanella/Cap3primaparte.pdf",
-    "Esercizi/Esercizi 01.md",
-    "Approfondimenti/irrazionalità della radice di due.md",
     "Immagini/crivelloeratostene05.svg",
     "Immagini/crivelloeratostene01.svg",
     "Immagini/crivelloeratostene03.svg",
