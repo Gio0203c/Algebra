@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2b2d2e932d9a1507",
+        "id": "cbd32316feb83fd9",
         "type": "tabs",
         "children": [
           {
-            "id": "a5bd49212f0fe867",
+            "id": "2241458af1c67261",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bozze.md",
+                "file": "Lezioni/2023-10-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bozze.md",
+                "file": "Lezioni/2023-10-11.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bozze.md",
+                "file": "Lezioni/2023-10-11.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bozze.md"
+                "file": "Lezioni/2023-10-11.md"
               }
             }
           },
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,39 +165,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5bd49212f0fe867",
+  "active": "2241458af1c67261",
   "lastOpenFiles": [
-    "2023-11-10.md",
-    "Lezioni/2023-10-20.md",
-    "2023-11-08.md",
-    "2023-11-06.md",
+    "Lezioni/2023-10-13.md",
+    "Lezioni/2023-10-09.md",
+    "Lezioni/2023-10-11.md",
     "Lezioni/2023-10-16.md",
     "Lezioni/2023-10-18.md",
-    "Lezioni/2023-10-23.md",
-    "Lezioni/2023-10-25.md",
-    "Lezioni/2023-10-30.md",
-    "Lezioni/2023-11-03.md",
-    "Bozze.md",
-    "Lezioni/2023-10-13.md",
-    "Lezioni/2023-10-11.md",
-    "Lezioni/2023-10-09.md",
+    "Lezioni/2023-10-02.md",
     "Lezioni/2023-10-06.md",
     "Lezioni/2023-10-04.md",
-    "Lezioni/2023-10-02.md",
-    "Approfondimenti/crivello di eratostene.md",
-    "Lezioni/2023-10-27.md",
     "Approfondimenti/induzione matematica.md",
     "Approfondimenti/assiomi di peano.md",
-    "HomePage.md",
-    "2023-10-31.md",
-    "LatexSnippets.md",
+    "Lezioni/2023-10-20.md",
+    "Lezioni/2023-10-23.md",
+    "Lezioni/2023-10-25.md",
+    "Lezioni/2023-11-17.md",
+    "Lezioni/2023-11-15.md",
+    "Lezioni/2023-11-13.md",
+    "Lezioni/2023-11-10.md",
+    "Lezioni/2023-11-08.md",
+    "Lezioni/2023-11-06.md",
+    "Lezioni/2023-11-03.md",
+    "Lezioni/2023-10-30.md",
+    "Lezioni/2023-10-27.md",
+    "Approfondimenti/osservazioni sugli assiomi di peano.md",
+    "Bozze.md",
+    "README.md",
+    "Approfondimenti/crivello di eratostene.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Immagini/lez08mcd.png",
     "Dispense Campanella/Cap3primaparte.pdf",
-    "Esercizi/Esercizi 01.md",
-    "Approfondimenti/irrazionalità della radice di due.md",
     "Immagini/crivelloeratostene05.svg",
     "Immagini/crivelloeratostene01.svg",
     "Immagini/crivelloeratostene03.svg",
