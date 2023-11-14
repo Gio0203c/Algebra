@@ -44,3 +44,5 @@ Prendiamo questo sistema:$$\begin{cases}x\equiv &2\text{ (mod }5) \\ x\equiv &3\
 
 Ricordiamo che questo teorema soddisfa una condizione **sufficiente** e non necessaria, per cui possono esserci dei casi per cui anche se i moduli non sono a due a due coprimi possono esserci soluzioni.
 
+
+

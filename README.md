@@ -12,4 +12,4 @@ Sono disponibile a correggere e migliorare costantemente questi materiali, quind
 
 Spero che questi contenuti ti siano utili per studiare l'Algebra in modo efficace. Buono studio!
 
-P.S. Ho lavorato a qusti appunti con la piattaforma Obsidian, per cui si può scaricare quella e aprire la cartella come vault per un esperienza migliore. In futuro vedrò di pubblicarli in un modo migliore :)
+P.S. Ho lavorato a questi appunti con la piattaforma Obsidian, per cui si può scaricare quella e aprire la cartella come vault per un esperienza migliore. In futuro vedrò di pubblicarli in un modo migliore :)
