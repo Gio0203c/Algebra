@@ -45,6 +45,8 @@ Supponiamo allora vero il risultato per $a,$ cioè: $$a^{p}\equiv a\text{ (mod }
 	applicando il teorema del binomio a $(a+1)^p$, otteniamo:$$(a+1)^p = \sum_{k=0}^{p} {p \choose k} a^{p-k} 1^k = a^p + \sum_{k=1}^{p-1} {p \choose k} a^{p-k} + 1^p$$Ora, per ogni $1 \leq k \leq p-1$, il coefficiente binomiale ${p \choose k}$ è divisibile per $p.$ Quindi, tutti i termini intermedi della somma sono congruenti a $0\text{ (mod }p)$. 
 	
 	Pertanto, otteniamo $(a+1)^p \equiv a^p + 1^p \mod p$. Questo è un passaggio
+
+
 Ma $1^p\equiv1$ e $a^{p}\equiv a$ per l'ipotesi induttiva, quindi $$(a+1)^{p}\equiv a+1$$che è la nostra tesi.
 ### Teorema Cinese del Resto
 Il **teorema cinese del resto** fornisce una **condizione sufficiente** affinché un sistema di congruenze lineari ammetta soluzione.
@@ -67,7 +69,6 @@ Prendiamo questo sistema:$$\begin{cases}x\equiv &2\text{ (mod }5) \\ x\equiv &3\
 
 Ricordiamo che questo teorema soddisfa una condizione **sufficiente** e non necessaria, per cui possono esserci dei casi per cui anche se i moduli non sono a due a due coprimi possono esserci soluzioni.
 
-La congruenza $(a+1)^p \equiv a^p + 1^p \mod p$ è un risultato del teorema del binomio, che afferma che $(a+b)^n = \sum_{k=0}^{n} {n \choose k} a^{n-k} b^k$. 
-
-
+### Teorema fondamentale dell'aritmetica
+Sia un numero intero $n>1.$ Allora $n$ si può fattorizzare nel prodotto di un numero finito di elementi irriducibili (detti **numeri primi**) $pj>1$:$$n=p_1^{h_{1}}p_2^{h_{2}}p_3^{h_{3}}...p_s^{h_{s}}$$dove i $p_j,j=1,...,s$ sono tutti distinti, gli esponenti $h_j$ sono positivi e $s\ge1.$ Inoltre tale fattorizzazione è unica.
 

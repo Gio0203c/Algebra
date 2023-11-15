@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bozze.md",
+                "file": "Lezioni/2023-10-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "60be81e4e39f3fca",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bozze.md",
+                "file": "Lezioni/2023-10-02.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bozze.md",
+                "file": "Lezioni/2023-10-02.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bozze.md"
+                "file": "Lezioni/2023-10-02.md"
               }
             }
           },
@@ -168,20 +167,20 @@
   },
   "active": "2241458af1c67261",
   "lastOpenFiles": [
+    "Lezioni/2023-10-04.md",
     "Lezioni/2023-10-02.md",
+    "Approfondimenti/assiomi di peano.md",
     "Lezioni/2023-10-20.md",
     "Lezioni/2023-10-23.md",
+    "Lezioni/2023-10-09.md",
     "Bozze.md",
+    "Lezioni/2023-10-18.md",
+    "Lezioni/2023-10-16.md",
     "Lezioni/2023-11-17.md",
     "Lezioni/2023-10-11.md",
     "Lezioni/2023-10-13.md",
-    "Lezioni/2023-10-09.md",
-    "Lezioni/2023-10-16.md",
-    "Lezioni/2023-10-18.md",
     "Lezioni/2023-10-06.md",
-    "Lezioni/2023-10-04.md",
     "Approfondimenti/induzione matematica.md",
-    "Approfondimenti/assiomi di peano.md",
     "Lezioni/2023-10-25.md",
     "Lezioni/2023-11-15.md",
     "Lezioni/2023-11-13.md",
