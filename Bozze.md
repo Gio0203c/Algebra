@@ -72,3 +72,4 @@ Ricordiamo che questo teorema soddisfa una condizione **sufficiente** e non nece
 ### Teorema fondamentale dell'aritmetica
 Sia un numero intero $n>1.$ Allora $n$ si può fattorizzare nel prodotto di un numero finito di elementi irriducibili (detti **numeri primi**) $pj>1$:$$n=p_1^{h_{1}}p_2^{h_{2}}p_3^{h_{3}}...p_s^{h_{s}}$$dove i $p_j,j=1,...,s$ sono tutti distinti, gli esponenti $h_j$ sono positivi e $s\ge1.$ Inoltre tale fattorizzazione è unica.
 
+- PAGINA 78-79 TEOREMA CINESE DEL RESTO SOLUZIONE
