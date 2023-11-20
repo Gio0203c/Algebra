@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lezioni/2023-10-23.md",
+                "file": "Lezioni/2023-10-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "60be81e4e39f3fca",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lezioni/2023-10-23.md",
+                "file": "Lezioni/2023-10-25.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lezioni/2023-10-23.md",
+                "file": "Lezioni/2023-10-25.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lezioni/2023-10-23.md"
+                "file": "Lezioni/2023-10-25.md"
               }
             }
           },
@@ -152,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,37 +166,46 @@
   },
   "active": "2241458af1c67261",
   "lastOpenFiles": [
-    "Lezioni/2023-10-25.md",
-    "Lezioni/2023-10-27.md",
-    "Lezioni/2023-10-18.md",
-    "Lezioni/2023-10-13.md",
     "Lezioni/2023-10-23.md",
-    "Lezioni/2023-10-30.md",
-    "Lezioni/2023-10-20.md",
-    "Bozze.md",
-    "Lezioni/2023-10-02.md",
-    "Lezioni/2023-10-04.md",
+    "Lezioni/2023-10-18.md",
     "Lezioni/2023-10-16.md",
+    "Lezioni/2023-10-13.md",
     "Lezioni/2023-10-11.md",
     "Lezioni/2023-10-09.md",
     "Lezioni/2023-10-06.md",
-    "Lezioni/2023-11-08.md",
-    "HomePage.md",
+    "Lezioni/2023-10-04.md",
+    "Lezioni/2023-10-02.md",
+    "Lezioni/2023-11-20.md",
+    "Esercizi/Esercizi 02.md",
     "Lezioni/2023-11-13.md",
-    "Lezioni/2023-11-10.md",
-    "Lezioni/2023-11-06.md",
-    "Lezioni/2023-11-03.md",
-    "Approfondimenti/assiomi di peano.md",
-    "Lezioni/2023-11-17.md",
-    "Approfondimenti/induzione matematica.md",
     "Lezioni/2023-11-15.md",
-    "Approfondimenti/osservazioni sugli assiomi di peano.md",
-    "README.md",
+    "Lezioni/2023-11-17.md",
+    "Lezioni/2023-11-10.md",
+    "Lezioni/2023-11-24.md",
+    "Lezioni/2023-11-22.md",
+    "Lezioni/2023-11-03.md",
+    "Lezioni/2023-10-30.md",
+    "Lezioni/2023-10-27.md",
+    "Lezioni/2023-10-20.md",
+    "Lezioni/2023-10-25.md",
+    "Bozze.md",
+    "Esercizi/Tracce/foglio10.pdf",
+    "Esercizi/Tracce/Non confermato 679103.crdownload",
+    "Esercizi/Tracce/foglio09-esercitazione 2023-11-15.pdf",
+    "Esercizi/Tracce/esercitazione 2023-11-15.pdf",
+    "Esercizi/Tracce/Non confermato 887175.crdownload",
+    "Esercizi/Tracce/foglio08.pdf",
+    "Esercizi/Tracce/Non confermato 355616.crdownload",
+    "Esercizi/Tracce/foglio07.pdf",
+    "Esercizi/Tracce/Non confermato 6755.crdownload",
+    "Esercizi/Tracce/foglio06.pdf",
+    "Approfondimenti/crivello di eratostene.md",
+    "Approfondimenti/induzione matematica.md",
+    "Approfondimenti/irrazionalità della radice di due.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Immagini/lez08mcd.png",
-    "Dispense Campanella/Cap3primaparte.pdf",
     "Immagini/crivelloeratostene05.svg",
     "Immagini/crivelloeratostene01.svg",
     "Immagini/crivelloeratostene03.svg",
@@ -206,16 +213,7 @@
     "Immagini/crivelloeratostene04.svg",
     "Immagini/lez01relazione01.png",
     "Immagini/bianco.drawio.svg",
-    "Esercizi Campanella/Altriesercizi.pdf",
-    "Esercizi Campanella/SolEsCap4.pdf",
-    "Esercizi Campanella/InizioEsAlg1.pdf",
-    "Esercizi Campanella/SolEsCap2.pdf",
-    "Dispense Campanella/Cap1secondaparte.pdf",
-    "Dispense Campanella/Cap1primaparte.pdf",
     "Immagini/Pasted image 20231025152627.png",
-    "Immagini/Pasted image 20231018084700.png",
-    "Immagini/lez05graficoQ.svg.crswap",
-    "Immagini/lez03graficoNxN.svg.crswap",
-    "Esercizi"
+    "Immagini/Pasted image 20231018084700.png"
   ]
 }
