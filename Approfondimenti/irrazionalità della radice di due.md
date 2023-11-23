@@ -14,4 +14,3 @@ Sostituendolo nell'equazione di prima avremo:$$4n^{2}=b^{2}\implies4n^{2}=2b^{2}
 Il problema è che se sia $a$ che $b$ sono pari, sono **semplificabili** tra di loro, pertanto la frazione *non è ridotta ai minimi termini* (come è specificato nell'ipotesi di partenza). Vi è una **contraddizione**.
 
 Pertanto, $\sqrt{2}$ *non può essere espresso come frazione tra numeri interi*.
-
