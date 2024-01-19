@@ -7,9 +7,20 @@ Se non esiste un intero h, l'elemento g ha un *periodo infinito*. Se esiste un i
 
 $\langle g \rangle={e,g,g1,g2,...,gn−1}$
 
-###### Proposizione - Immagine di un omomorfismo come sottogruppo
-Sia $\varphi:(G,\star_{1})\longrightarrow (H,\star_{2})$ un omomorfismo tra i gruppi $G$ e $H,$ allora $Im(\varphi)=\{\varphi(g),g\in G \}$ è un sottogruppo di $H.$
 
-Dimostrazione: 
-	
 
+###### Proposizione
+Se $G$ ha cardinalità finita allora **l'ordine** di $G$ è la sua cardinalità (l'ordine di $H_{2}$ è 6).
+
+Per i gruppi finiti ha interesse considerare la tabella moltiplicativa 
+
+Sia $g\in G,$ allora $\{g^{t},t\in\mathbb{Z}\}$ è un sottogruppo di $G.$
+Applico il criterio: ho $g^{t_{1}}$ e $g^{t_{2}}\in\{g^{t},t\in\mathbb{Z} \}$ e considero $g^{t_{1}}\cdot (g^{t_{2}})^{-1}=g^{t_{1}}\cdot g^{-t_{2}}=g^{t_{1}-t_{2}}\in \{g^{t},t\in\mathbb{Z} \}$ Per il criterio di prima, $\{g^{t},t\in\mathbb{Z}\}$ è un sottogruppo di $G$ ed è detto **sottogruppo generato** da $g,$ ed è indicato con $\langle g \rangle.$
+
+Sia $(G,\cdot)$ un gruppo e $H\le G.$ $H$ è detto ciclico se $\exists h\in H$ tale che $H=\langle h \rangle.$ In particolare $G$ è ciclico se $\exists g\in G | G=\langle g \rangle.$ Se $G$ è ciclico $\implies$ è commutativo perché $g^{s}\cdot g^{t}=g^{s+t}.$
+
+Esempio: $(\mathbb{Z},+)$ è ciclico, perché generato da $\langle 1 \rangle$ oppure da $\langle -1 \rangle$
+Esempio: $(\mathbb{Z}_{n},+)$ è ciclico, perché generato da $\langle [1] \rangle$
+### Classi Laterali modulo un sottogruppo e teorema di Lagrange
+Sia $(G,\star)$ un gruppo e sia $H$ un suo sottogruppo. Definiamo in $G$ la seguente relazione:$$a\space\rho\space b\iff a\star b^{-1}\in H.$$
+Se l'operazione di $G$ fosse l'addizione, la relazione sarebbe $$a\space\rho\space b\iff a+(-b)\in H.$$ Per questo motivo la relazione 
